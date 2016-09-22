@@ -1,0 +1,6 @@
+{
+    "repos": "https://github.com/wenzhixin/bootstrap-table.git",
+    "version": "1.9.1",
+    "name": "bootstrap-table",
+    "main": "bootstrap-table.js"
+}
